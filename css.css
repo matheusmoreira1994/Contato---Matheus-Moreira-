@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to bottom, #151010, #2ea0e7);
+  }
+
+  .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .image-container {
+    text-align: center;
+    width: 100%;
+  }
+  
+  .links-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+  }
+
+  .links-container a:hover {
+  background-color: #fff;
+  color: #000;
+  }
+
+  #contact {
+  background-color: rgba(0,0,0,0.1); 
+  font-weight: normal;
+  border-radius: 150px; 
+  padding: 10px; 
+  margin: auto; 
+  max-width: 390px; 
+}
