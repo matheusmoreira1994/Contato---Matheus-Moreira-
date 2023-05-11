@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #151010, #2ea0e7);
+   background-image: radial-gradient(circle at 34.83% 55.52%, #44bcff 0, #4494c7 25%, #3d6c90 50%, #30475c 75%, #20272e 100%);
 }
 
 .container {
